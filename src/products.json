@@ -1,0 +1,8 @@
+{ "products" : [
+    { "Name": "Cheese", "Price" : 2.50,"Discounted_Price": 1.50, "Description": "Refrigerated foods", "Ratings": 3, "Favourite": true, "imgUrl": "./assets/cheese.jpg"},
+    { "Name": "Crisps", "Price" : 3, "Discounted_Price": null, "Description": "the Snack isle", "Ratings": 2, "Favourite": false, "imgUrl": "./assets/cereal.jpg"},
+    { "Name": "Pizza", "Price" : 4, "Discounted_Price": 3.50, "Description": "Refrigerated foods", "Ratings": 5, "Favourite": false, "imgUrl": "./assets/pizza.jpg"},
+    { "Name": "Chocolate", "Price" : 1.50, "Discounted_Price": null, "Description": "the Snack isle", "Ratings": 1, "Favourite": false, "imgUrl": "./assets/chocolate.jpg"},
+    { "Name": "Flour", "Price" : 1.50, "Discounted_Price": 1, "Description": "Home baking", "Ratings": 4, "Favourite": false, "imgUrl": "./assets/dough.jpg"},
+    { "Name": "Almonds", "Price" : 3, "Discounted_Price": null, "Description": "Home baking", "Ratings": 2,"Favourite": false, "imgUrl": "./assets/almonds.jpg"}
+]}

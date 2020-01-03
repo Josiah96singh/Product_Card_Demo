@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.topContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.iconParentContainer {
+  position: absolute;
+}
